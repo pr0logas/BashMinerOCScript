@@ -11,5 +11,7 @@ Tested with RHEL7/Centos7 and NVIDIA driver 385+
     start the service - systemctl start miner
     enable after reboot - systemctl enable miner
     check current mining status - tail -f /var/log/miner.log
+    
+![Alt text](https://github.com/pr0logas/BashMinerOCScript/blob/master/Selection_08333.png?raw=true)  
 
 No guarantee use at own risk (especially with oc.sh)
