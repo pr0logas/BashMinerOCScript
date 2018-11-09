@@ -1,6 +1,6 @@
 # BashMinerOCScript for Equihash & Zhash (EWBF)
 
-Tested with RHEL7/Centos7
+Tested with RHEL7/Centos7 and NVIDIA driver 385+
 
 **instructions**
 
