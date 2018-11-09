@@ -1,4 +1,4 @@
-# BashMinerOCScript
+# BashMinerOCScript for Equihash & Zhash (EWBF)
 
 Tested with RHEL7/Centos7
 
