@@ -1,0 +1,10 @@
+[Unit]
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/miner.sh
+User=root
+Group=root
+
+[Install]
+WantedBy=default.target
